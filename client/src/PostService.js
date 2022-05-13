@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const url = "https://unh-nsa1.herokuapp.com/api/posts";
+const url = "https://unhnsa2022.herokuapp.com/api/posts";
 
 /* eslint-disable no-async-promise-executor */
 
